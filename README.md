@@ -62,7 +62,9 @@ Experienced in fintech platforms, RESTful architectures, and full-stack developm
 <h3 align="left">🚀 Key Projects</h3>
 
 - 💬 **Live Helper Chat (Java, Spring)**  
-  Integrated secure SSO-based live chat into a fintech customer service portal, enabling multi-session handling and improving CSR productivity.
+  Built secure server-side validation for seamless user authorization using SSO token-based authentication.
+  Implemented multi-session support for CSRs to serve multiple customers simultaneously, improving efficiency by 50%.
+  Provided database-driven configurations to limit concurrent session generations to reduce memory-related issues.
 
 - 🔐 **Social Messenger – RESTful Backend Service**  
   Designed and implemented REST APIs using JAX-RS & Jersey following the Richardson Maturity Model.
