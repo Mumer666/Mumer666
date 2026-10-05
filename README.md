@@ -67,7 +67,9 @@ Experienced in fintech platforms, RESTful architectures, and full-stack developm
   - Provided database-driven configurations to limit concurrent session generations to reduce memory-related issues.
 
 - 🔐 **Social Messenger – RESTful Backend Service**  
-  Designed and implemented REST APIs using JAX-RS & Jersey following the Richardson Maturity Model.
+  - Developed a RESTful messaging platform supporting user posts, likes, and content sharing.
+  - Implemented APIs using JAX-RS and Jersey following REST maturity model principles.
+  - Designed scalable service architecture for performance and maintainability.
 
 - 🛒 **E-commerce Web Application (React)**  
   Built a complete shopping platform with product browsing, filtering, and cart persistence using modern frontend practices.
